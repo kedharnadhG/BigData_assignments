@@ -7,8 +7,8 @@ Q3. List some pros and cons of Python programming language?
 
 Q4. In what all domains can we use Python?
 
-Q5. What are variable and how can we declare them?
+
 
 Q6. How can we take an input from the user in Python?
-
+sjskhuhishkjbhuihgbuihbhjhb
 Q7. What is the default datatype of the value that has been taken as an input using input() function?
